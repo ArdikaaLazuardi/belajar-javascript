@@ -16,4 +16,4 @@ if (nilai < 40) {
   grade = "A";
 }
 
-alert("Grade: " + grade);
+alert(nilai + " grade anda : " + grade);
